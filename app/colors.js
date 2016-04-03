@@ -306,9 +306,7 @@ module.exports = {
     '600':  {color: '#546E7A', white: true},
     '700':  {color: '#455A64', white: true},
     '800':  {color: '#37474F', white: true},
-    '900':  {color: '#263238', white: true}
-  },
-  'test' : {
-    '100':  {color: '#444444'}
+    // '900':  {color: '#263238', white: true}
+    '900':  {color: '#444444', white: true}
   }
 };
