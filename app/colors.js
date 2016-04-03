@@ -295,17 +295,17 @@ module.exports = {
     '700':  {color: '#616161', white: true},
     '800':  {color: '#424242', white: true},
     '900':  {color: '#212121', white: true}
-  },
-  'blue-grey': {
-    '50':   {color: '#ECEFF1'},
-    '100':  {color: '#CFD8DC'},
-    '200':  {color: '#B0BEC5'},
-    '300':  {color: '#90A4AE'},
-    '400':  {color: '#78909C', white: true},
-    '500':  {color: '#607D8B', white: true},
-    '600':  {color: '#546E7A', white: true},
-    '700':  {color: '#455A64', white: true},
-    '800':  {color: '#37474F', white: true},
-    '900':  {color: '#263238', white: true}
   }
+  // 'blue-grey': {
+  //   '50':   {color: '#ECEFF1'},
+  //   '100':  {color: '#CFD8DC'},
+  //   '200':  {color: '#B0BEC5'},
+  //   '300':  {color: '#90A4AE'},
+  //   '400':  {color: '#78909C', white: true},
+  //   '500':  {color: '#607D8B', white: true},
+  //   '600':  {color: '#546E7A', white: true},
+  //   '700':  {color: '#455A64', white: true},
+  //   '800':  {color: '#37474F', white: true},
+  //   '900':  {color: '#263238', white: true}
+  // }
 };
